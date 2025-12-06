@@ -1,0 +1,16 @@
+{
+    "ndi": {
+        "networks": {
+            "ips": "172.16.0.4",
+            "discovery": ""
+        },
+        "rudp": {
+                "send": {
+                        "enable": false
+                },
+                "recv": {
+                        "enable": false
+                }
+        }
+    }
+}
