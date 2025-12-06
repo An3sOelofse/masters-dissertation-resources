@@ -1,0 +1,19 @@
+Connecting to host 192.168.70.135, port 5000
+[  5] local 10.0.0.2 port 33025 connected to 192.168.70.135 port 5000
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  1.71 MBytes  14.3 Mbits/sec  1237  
+[  5]   1.00-2.00   sec  1.58 MBytes  13.2 Mbits/sec  1142  
+[  5]   2.00-3.00   sec  1.55 MBytes  13.0 Mbits/sec  1120  
+[  5]   3.00-4.00   sec  1.56 MBytes  13.1 Mbits/sec  1127  
+[  5]   4.00-5.00   sec  1.83 MBytes  15.4 Mbits/sec  1326  
+[  5]   5.00-6.00   sec  1.85 MBytes  15.5 Mbits/sec  1337  
+[  5]   6.00-7.00   sec  1.77 MBytes  14.9 Mbits/sec  1284  
+[  5]   7.00-8.00   sec  2.10 MBytes  17.6 Mbits/sec  1518  
+[  5]   8.00-9.00   sec  2.15 MBytes  18.0 Mbits/sec  1554  
+[  5]   9.00-10.00  sec  1.87 MBytes  15.7 Mbits/sec  1354  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  17.9 MBytes  15.1 Mbits/sec  0.000 ms  0/12999 (0%)  sender
+[  5]   0.00-10.28  sec  17.9 MBytes  14.7 Mbits/sec  0.726 ms  0/12998 (0%)  receiver
+
+iperf Done.

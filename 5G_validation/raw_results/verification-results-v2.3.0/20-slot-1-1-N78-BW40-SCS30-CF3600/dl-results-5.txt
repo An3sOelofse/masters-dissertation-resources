@@ -1,0 +1,20 @@
+Connecting to host 192.168.70.135, port 5000
+Reverse mode, remote host 192.168.70.135 is sending
+[  5] local 10.0.0.2 port 43899 connected to 192.168.70.135 port 5000
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-1.00   sec  4.02 MBytes  33.7 Mbits/sec  0.223 ms  208/3121 (6.7%)  
+[  5]   1.00-2.00   sec  8.32 MBytes  69.8 Mbits/sec  0.198 ms  0/6025 (0%)  
+[  5]   2.00-3.00   sec  11.9 MBytes  99.7 Mbits/sec  0.080 ms  0/8610 (0%)  
+[  5]   3.00-4.00   sec  12.1 MBytes   101 Mbits/sec  0.130 ms  0/8727 (0%)  
+[  5]   4.00-5.00   sec  12.1 MBytes   101 Mbits/sec  0.178 ms  0/8727 (0%)  
+[  5]   5.00-6.00   sec  12.1 MBytes   101 Mbits/sec  0.216 ms  0/8735 (0%)  
+[  5]   6.00-7.00   sec  12.0 MBytes   101 Mbits/sec  0.107 ms  0/8719 (0%)  
+[  5]   7.00-8.00   sec  12.1 MBytes   101 Mbits/sec  0.218 ms  0/8727 (0%)  
+[  5]   8.00-9.00   sec  12.1 MBytes   101 Mbits/sec  0.255 ms  0/8735 (0%)  
+[  5]   9.00-10.00  sec  12.0 MBytes   101 Mbits/sec  0.091 ms  0/8719 (0%)  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.39  sec   149 MBytes   120 Mbits/sec  0.000 ms  0/0 (0%)  sender
+[  5]   0.00-10.00  sec   109 MBytes  91.1 Mbits/sec  0.091 ms  208/78845 (0.26%)  receiver
+
+iperf Done.
